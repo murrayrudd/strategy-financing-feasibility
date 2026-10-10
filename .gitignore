@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+build/
+# Expanded frozen bundles and regenerated ledgers/results:
+inverse/inputs/
+inverse/results/
+inverse/figures/
+inverse/*.html
+research/data/
+research/results/
+research/legacy_engine/calibration/
+research/legacy_engine/examples/
+research/legacy_engine/historical_benchmark/
+research/legacy_engine/historical_results/
+research/legacy_engine/interface_results/
+research/legacy_engine/historical_data/*.csv
+research/legacy_engine/historical_data/*.json
+validation/results/
+validation/sources/
+*.partial
