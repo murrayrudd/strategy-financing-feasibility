@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite this replication package when using the code or results."
+type: software
+title: "Strategy financing feasibility: replication package"
+authors:
+  - family-names: Rudd
+    given-names: Murray A.
+version: 1.0.0
+date-released: 2026-10-10
+abstract: >-
+  Frozen inputs, corporate financing code, conditional feasibility searches,
+  retained numerical outputs, verification, and publication figures for the
+  working paper Financing feasibility and shareholder outcomes in a Bitcoin
+  treasury company: historical validation and conditional stress testing of Strategy.
+keywords:
+  - Bitcoin treasury companies
+  - financing feasibility
+  - Strategy
+  - common equity
+  - preferred equity
+  - conditional stress testing
+
+# Associated paper: Rudd, Murray A. (2026). Financing feasibility and shareholder
+# outcomes in a Bitcoin treasury company: historical validation and conditional
+# stress testing of Strategy. Working paper; SSRN submission planned 2026-10-10.
+# Paper SSRN URL: SSRN_URL_PLACEHOLDER
+# Replace the marker above with the public SSRN abstract-page URL after approval.
+# No paper DOI is required or used. This file cites the replication package.

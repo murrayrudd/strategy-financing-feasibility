@@ -1,0 +1,55 @@
+{
+  "mode": "verify",
+  "python": "3.12.14",
+  "steps": [
+    {
+      "script": "scripts/unpack_data.py",
+      "arguments": [],
+      "seconds": 1.75
+    },
+    {
+      "script": "validation/historical_validation.py",
+      "arguments": [],
+      "seconds": 0.44
+    },
+    {
+      "script": "inverse/verify.py",
+      "arguments": [
+        "--builder-only"
+      ],
+      "seconds": 28.2
+    },
+    {
+      "script": "inverse/verify_package.py",
+      "arguments": [],
+      "seconds": 13.23
+    },
+    {
+      "script": "inverse/analyze.py",
+      "arguments": [],
+      "seconds": 4.26
+    },
+    {
+      "script": "publication/prepare_data.py",
+      "arguments": [],
+      "seconds": 0.61
+    },
+    {
+      "script": "publication/build_figures.py",
+      "arguments": [],
+      "seconds": 1.96
+    },
+    {
+      "script": "publication/build_tables.py",
+      "arguments": [],
+      "seconds": 0.63
+    },
+    {
+      "script": "scripts/check_results.py",
+      "arguments": [],
+      "seconds": 1.49
+    }
+  ],
+  "full_simulation_rerun": false,
+  "finished_utc": "2026-10-10T03:53:52Z"
+}

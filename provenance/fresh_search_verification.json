@@ -1,0 +1,44 @@
+{
+  "fresh_jobs": 5,
+  "economic_outputs_and_hashes_match_exactly": true,
+  "new_evaluations": 120,
+  "maximum_audit_residual_difference": 1.1920928955078125e-07,
+  "audit_residual_tolerance": 1e-06,
+  "jobs": [
+    {
+      "job_id": "3cf30d09282342b419f3",
+      "evaluations": 48,
+      "witnesses": 13,
+      "kind": "inverse",
+      "axis": "valuation"
+    },
+    {
+      "job_id": "7d4647a746f25c569116",
+      "evaluations": 36,
+      "witnesses": 8,
+      "kind": "inverse",
+      "axis": "bitcoin"
+    },
+    {
+      "job_id": "9a23c2a827cd8238149d",
+      "evaluations": 20,
+      "witnesses": 4,
+      "kind": "inverse",
+      "axis": "capacity"
+    },
+    {
+      "job_id": "6b0000a5d4f6c132a23c",
+      "evaluations": 15,
+      "witnesses": 4,
+      "kind": "inverse",
+      "axis": "sale_authority"
+    },
+    {
+      "job_id": "17bf5ec2ac5b16e675b1",
+      "evaluations": 1,
+      "witnesses": 1,
+      "kind": "strc",
+      "axis": "none"
+    }
+  ]
+}

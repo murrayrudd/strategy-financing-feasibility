@@ -1,0 +1,36 @@
+{
+  "release_version": "1.0.0",
+  "date": "2026-10-10",
+  "tested_environment": "provenance/environment.json",
+  "complete_current_verify_route_passed": true,
+  "evaluation_summaries_checked": 46481,
+  "exact_recipe_replays": 243,
+  "strata": 117,
+  "builder_financial_comparisons": 270,
+  "historical_quarter_intervals": 5,
+  "fresh_search_evaluations": 120,
+  "fresh_search_axes": [
+    "valuation",
+    "bitcoin",
+    "capacity",
+    "sale_authority",
+    "STRC"
+  ],
+  "fresh_search_economic_outputs_and_result_hashes_exact": true,
+  "figure_datasets_match_current_manuscript": 4,
+  "figure_PNG_pixels_identical_to_supplied_manuscript_figures": 4,
+  "numerical_tables_match_current_manuscript": [
+    "2",
+    "3",
+    "4",
+    "E1",
+    "E2",
+    "E3"
+  ],
+  "full_46481_evaluation_rerun_performed_for_release": false,
+  "github_actions_run": false,
+  "publication_status": "Prepared locally; repository creation and remote publication pending.",
+  "license_status": "No blanket open-source license selected; third-party notices retained.",
+  "clean_copy_reproduction_passed": true,
+  "clean_copy_source": "Only explicitly staged release files; no source development directories or expanded data were present."
+}

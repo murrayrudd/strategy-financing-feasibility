@@ -1,0 +1,16 @@
+{
+  "completed_steps": [
+    "parse_filings",
+    "build_panel",
+    "empirical_tests",
+    "diagnostics",
+    "endpoint_diagnostics",
+    "regenerate_first_baseline_window_54_cases",
+    "regenerate_supplement_198_cases",
+    "analyze_study",
+    "analyze_supplement",
+    "verify_all_2844_main_and_supplement_records"
+  ],
+  "revision_control_rerun": "Optional extended regeneration stopped after at least 656 completed controls; no failed assertion had occurred. Partial generated ledgers are not included.",
+  "scope": "Supported verification route and five fresh search jobs passed. A full regeneration of every simulation was not performed for this release."
+}

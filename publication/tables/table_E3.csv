@@ -1,0 +1,5 @@
+Horizon weeks,Origins,Fixed multiplier,Mean reversion,Four factors,Reversion interval coverage
+4,25,0.123,0.155,0.148,84%
+13,23,0.292,0.320,0.312,61%
+26,19,0.484,0.402,0.512,42%
+52,13,0.527,0.357,0.678,69%

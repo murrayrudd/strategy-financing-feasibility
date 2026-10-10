@@ -1,0 +1,7 @@
+{
+  "release_files_scanned": 118,
+  "files_and_bundle_members_scanned": 6303,
+  "unchanged_original_code_and_specification_files": 51,
+  "findings": [],
+  "scope": "Explicit publication allowlist plus path and credential-pattern checks, including decompressed data. This is not a general guarantee about every type of sensitive content."
+}

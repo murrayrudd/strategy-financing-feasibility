@@ -1,0 +1,11 @@
+{
+  "evaluations": 46481,
+  "jobs": 2687,
+  "target_searches": 5950,
+  "reversals": 460,
+  "manuscript_counts_match": true,
+  "figure_datasets_match": 4,
+  "rebuilt_result_tables_match": 4,
+  "full_search_rerun_performed": false,
+  "note": "This check compares retained/rebuilt outputs. The reproduction driver records separately whether every simulation was rerun."
+}

@@ -1,0 +1,7 @@
+permission,coordinate,payments,funded,nominal_value,annual_5pct,bitcoin_per_share,configurations
+reserve_flexible,0.5,294,294,144,144,206,294
+reserve_flexible,1.0,294,294,198,198,64,294
+reserve_flexible,2.0,294,294,222,221,202,294
+restricted,0.5,254,254,144,144,205,294
+restricted,1.0,266,266,198,198,64,294
+restricted,2.0,267,267,220,220,202,294

@@ -1,0 +1,24 @@
+{
+  "inputs": [
+    {
+      "path": "inverse/results/scenario_evaluations.csv",
+      "sha256": "1f875b4b8b6d73df797574adc6da62c56322d473d6fbac92f91b2add6228a063"
+    },
+    {
+      "path": "inverse/results/required_conditions.csv",
+      "sha256": "d3ded308494f1809546f13a99f409dc656faa16ac223ac4329ad22845dc33e32"
+    },
+    {
+      "path": "inverse/results/strc_matched_comparisons.csv",
+      "sha256": "e5c5ddf5e97cf9e5354483bcfe03975da063e9d29e8aa4bbdb71018f92d54e87"
+    }
+  ],
+  "model_evaluations_retained": 46481,
+  "new_model_evaluations": 0,
+  "verification": {
+    "figure_1_matches_table_E1": true,
+    "figure_2_matches_section_4_3": true,
+    "figure_3_matches_table_3": true,
+    "figure_4_matched_cases": 216
+  }
+}
