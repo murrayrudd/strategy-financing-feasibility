@@ -9,17 +9,17 @@ The model maps the conditions needed to meet scheduled payments, preserve reserv
 ## Working paper and SSRN link
 
 **Author:** Murray A. Rudd  
-**Paper:** *Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy* (2026 working paper; 9 October 2026 manuscript).
+**Paper:** *Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy* (working paper).
 
-**SSRN status:** Submission planned for 10 October 2026; the public paper link is pending SSRN approval. This package does not claim that the paper is already available on SSRN.
+**SSRN status:** Submitted 10 October 2026; the public paper link is pending SSRN approval.
 
-**SSRN link:** `SSRN_URL_PLACEHOLDER` — replace this marker with the public SSRN abstract-page URL when available. No paper DOI is required or used.
+**SSRN link:** `SSRN_URL_PLACEHOLDER`
 
 Provisional paper citation:
 
-> Rudd, Murray A. (2026). *Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy*. Working paper. SSRN link pending approval.
+> Rudd, Murray A. (2026). *Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy*. SSRN preprint (DOI pending).
 
-Cite the paper for its analysis and this replication package for its code or numerical results. `CITATION.cff` currently describes the replication package. Once SSRN provides the public URL, update this section and the paper-link comment in `CITATION.cff`; see `docs/PUBLISHING.md` for the exact steps. The manuscript itself is not included in this repository.
+Cite the paper for its analysis and this replication package for its code or numerical results. `CITATION.cff` currently describes the replication package.
 
 ## Start here
 
@@ -81,6 +81,6 @@ See [the results index](docs/RESULTS_INDEX.md) for the connection between manusc
 
 ## Citation and reuse
 
-Use `CITATION.cff` to cite the replication package and the provisional citation above to cite the paper. The paper will be posted on SSRN once approved; its public URL is pending. No paper DOI is required. Add the actual repository URL to `CITATION.cff` after the GitHub repository exists.
+Use `CITATION.cff` to cite the replication package and the provisional citation above to cite the paper. The paper will be public on SSRN once approved; its public URL is pending.
 
 See [LICENSE.md](LICENSE.md) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). No blanket open-source license has been selected for this release. Coin Metrics data retain their CC BY-NC 4.0 attribution and terms. Source-provider data and filings are not relicensed by this package.
