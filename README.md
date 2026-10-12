@@ -9,11 +9,7 @@ The model maps the conditions needed to meet scheduled payments, preserve reserv
 ## Working paper and SSRN link
 
 **Author:** Murray A. Rudd  
-**Paper:** *Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy* (working paper).
-
-**SSRN status:** Submitted 10 October 2026; the public paper link is pending SSRN approval.
-
-**SSRN link:** `SSRN_URL_PLACEHOLDER`
+**Paper:** *Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy* SSRN preprint: https://dx.doi.org/10.2139/ssrn.7593458.
 
 Provisional paper citation:
 
@@ -81,6 +77,6 @@ See [the results index](docs/RESULTS_INDEX.md) for the connection between manusc
 
 ## Citation and reuse
 
-Use `CITATION.cff` to cite the replication package and the provisional citation above to cite the paper. The paper will be public on SSRN once approved; its public URL is pending.
+Use `CITATION.cff` to cite the replication package and the provisional citation above to cite the paper. 
 
 See [LICENSE.md](LICENSE.md) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). No blanket open-source license has been selected for this release. Coin Metrics data retain their CC BY-NC 4.0 attribution and terms. Source-provider data and filings are not relicensed by this package.
