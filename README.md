@@ -8,10 +8,19 @@ The model maps the conditions needed to meet scheduled payments, preserve reserv
 
 ## Working paper and SSRN link
 
-**Author:** Murray A. Rudd  
-**Paper:** *Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy* SSRN preprint: https://dx.doi.org/10.2139/ssrn.7593458.
+**Author:** Murray A. Rudd
 
-Cite the paper for its analysis and this replication package for its code or numerical results. `CITATION.cff` currently describes the replication package.
+**Paper:** [*Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy*](https://doi.org/10.2139/ssrn.7593458) (2026 SSRN preprint).
+
+**Paper DOI:** [10.2139/ssrn.7593458](https://doi.org/10.2139/ssrn.7593458)
+
+**SSRN abstract page:** <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7593458>
+
+Cite the paper for its analysis and this replication package for its code or numerical results. The DOI above identifies the paper; this replication package has no separate DOI.
+
+> Rudd, Murray A. (2026). *Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy*. SSRN. https://doi.org/10.2139/ssrn.7593458
+
+`CITATION.cff` identifies the replication package and includes the paper as its preferred citation. GitHub's **Cite this repository** option uses the paper citation. The manuscript itself is not included in this repository.
 
 ## Start here
 
@@ -73,6 +82,6 @@ See [the results index](docs/RESULTS_INDEX.md) for the connection between manusc
 
 ## Citation and reuse
 
-Use `CITATION.cff` to cite the replication package and the provisional citation above to cite the paper. 
+Use the citation above to cite the paper. `CITATION.cff` also records this replication package's author, version, release date, and repository URL. The paper DOI is recorded only in the associated paper citation.
 
 See [LICENSE.md](LICENSE.md) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). No blanket open-source license has been selected for this release. Coin Metrics data retain their CC BY-NC 4.0 attribution and terms. Source-provider data and filings are not relicensed by this package.

@@ -20,13 +20,13 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1247,
-      "sha256": "95b8f2f573bea11de6b04ad0418ef18cfa10b15fda9260109b65dfa37e2badef"
+      "bytes": 1658,
+      "sha256": "3bee6df2d23752dfcc49c8d4c165ee921f5ffc67cf96edbdfefca90132065ca6"
     },
     {
       "path": "CITATION.cff",
-      "bytes": 1195,
-      "sha256": "e0cd1d7f70a3a717d8aa86d27e51128efd745d786c8cfeccc6d0af328a28f84f"
+      "bytes": 1412,
+      "sha256": "73bfe47b0538638d67d51ad2a12a1edc6ac54a2776613f1a806a7ea8ff6e544d"
     },
     {
       "path": "LICENSE.md",
@@ -35,13 +35,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 7539,
-      "sha256": "4fbc68a5d2ef3ba3af26f90fa5a2f463f64382e596dd82a94900b4d3956623e5"
+      "bytes": 7320,
+      "sha256": "9b706fe34ca4de7e72a1a24fe581077f6600994d3962838f4b4eae452df944b6"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
       "bytes": 1938,
       "sha256": "dbdeedf8976b7f482a99b5d9b8744c14f7edf5aaab71e0c2a71b0e4cd56d01fe"
+    },
+    {
+      "path": "data/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
     },
     {
       "path": "data/builder_references.json.gz",
@@ -90,8 +95,8 @@
     },
     {
       "path": "docs/PUBLISHING.md",
-      "bytes": 2889,
-      "sha256": "cc9f525ba24ff9e36372de43f9f43a7e16d44cf02fb83e9358a88dcf39f37cbe"
+      "bytes": 3700,
+      "sha256": "bdaa6cc5b8d688087b6f8cb56d2a374570e08f2aca66f640e70efca938c2adb2"
     },
     {
       "path": "docs/REPRODUCING.md",

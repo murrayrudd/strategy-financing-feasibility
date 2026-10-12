@@ -2,6 +2,14 @@
 
 ## 1.0.0 — prepared 10 October 2026
 
+### Documentation update — 12 October 2026
+
+- Records the paper DOI `10.2139/ssrn.7593458` and SSRN abstract link in the README and structured paper citation.
+- Adds the repository URL to software citation metadata and replaces outdated placeholder instructions.
+- Refreshes release-file checksums after the metadata edits. Model code, frozen data, and numerical outputs are unchanged.
+
+### Original release
+
 - Adds a provisional paper citation, pending SSRN URL placeholder, and instructions for updating the public link without a paper DOI. This documentation update leaves all model code, data, and numerical outputs unchanged.
 
 - Assembles the October 8 financing-feasibility model and the four figures used in the October 9 manuscript.
