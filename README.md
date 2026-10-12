@@ -11,10 +11,6 @@ The model maps the conditions needed to meet scheduled payments, preserve reserv
 **Author:** Murray A. Rudd  
 **Paper:** *Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy* SSRN preprint: https://dx.doi.org/10.2139/ssrn.7593458.
 
-Provisional paper citation:
-
-> Rudd, Murray A. (2026). *Financing feasibility and shareholder outcomes in a Bitcoin treasury company: historical validation and conditional stress testing of Strategy*. SSRN preprint (DOI pending).
-
 Cite the paper for its analysis and this replication package for its code or numerical results. `CITATION.cff` currently describes the replication package.
 
 ## Start here
